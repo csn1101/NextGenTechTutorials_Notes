@@ -2,3 +2,6 @@
 venv/
 # Ignore self notes
 self_notes/
+#ignore vs code utilites
+.vs/
+.vscode/
